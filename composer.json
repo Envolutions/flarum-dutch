@@ -1,5 +1,5 @@
 {
-    "name": "flarum-lang/dutch",
+    "name": "envolutions/dutch",
     "type": "flarum-extension",
     "description": "Dutch language pack for Flarum.",
     "keywords": ["locale", "dutch", "flarum"],
